@@ -43,12 +43,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 *  ShadCn - Ui library [URL](https://ui.shadcn.com/docs/installation/next)
  ```bash
-        npx shadcn-ui@latest init 
+npx shadcn-ui@latest init 
 ```
 
 * aceternity ui - Ui library [URL](https://ui.aceternity.com/docs/install-nextjs)
 ```bash
-    npm i framer-motion clsx tailwind-merge
+npm i framer-motion clsx tailwind-merge
 ```
 
 * Aceternity UI framer-motion is compulsory but can install all. Because clsx and tailwing-merge setup is done by the shadcn 
